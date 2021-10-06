@@ -21,7 +21,7 @@ int cal_answer(int dis, int r1, int r2)
 
 int main(void)
 {
-	int n, x1, y1,r1, x2, y2, r2, d_squared;
+	int n, x1, y1,r1, x2, y2, r2;
 
 	cin >> n;
 	while (n > 0)

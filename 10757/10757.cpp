@@ -44,4 +44,5 @@ int main(void)
 
 	for (int i = sum.size() - 1; i >= 0; i--) //뒤에서부터 더하여 벡터에 저장하므로 역순으로 저장되어 있음
 		cout << sum[i];
+	return (0);
 }
